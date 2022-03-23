@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MenuRecyclerView</string>
+    <string name="al_pastor">Al Pastor</string>
+    <string name="de_camaron">De Camaron</string>
+    <string name="de_lengua">De Lengua</string>
+    <string name="de_cabeza">De Cabeza</string>
+    <string name="de_pollo">De Pollo</string>
+    <string name="de_pescado">De Pescado</string>
+    <string name="carne_asada">Carne Asada</string>
+    <string name="de_carnitas">De Carnitas</string>
+    <string name="de_barbacoa">De Barbacoa</string>
+    <string name="de_chorizo">De Chorizo</string>
+
+    <string name="weight">%s g</string>
+    <string name="cost">$%s</string>
+</resources>
